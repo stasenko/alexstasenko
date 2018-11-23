@@ -1,0 +1,168 @@
+@media screen and (max-width: 600px) {
+ .summary_third_block_1_2 {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+
+ .skills_block_1_2 {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+
+ .skills_block_2_2 {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+
+ .skills_block_3_2 {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+
+ .skills_block_4_2 {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+
+ .skills_block_5_2 {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+
+ .skills_block_1_1 h2, .skills_block_2_1 h2, .skills_block_3_1 h2, .skills_block_4_1 h2, .skills_block_5_1 h2 {
+    font-size: 12px;
+    width: 100%;
+  }
+
+ .button_1, .button_2, .button_3, .button_4, .button_5 {
+    font-size: 10px%;
+    width: 90%;
+  }
+
+ .skills_block_1_1 ul, .skills_block_2_1 ul, .skills_block_3_1 ul, .skills_block_4_1 ul, .skills_block_5_1 ul {
+    width: 100%;
+  }
+
+ .skills_block_1_1 li, .skills_block_2_1 li, .skills_block_3_1 li, .skills_block_4_1 li, .skills_block_5_1 li {
+    font-size: 8px;
+    width: 100%;
+  }
+
+ .portfolio_dev {
+ 	background-image: url("../image/construction.jpg");
+ 	background-size: cover;
+	width: 300px;
+	height: 200px;
+	margin-left: 15px;
+	margin-top: 15px;
+  }
+
+ .form-control {
+	width: 90%;
+	background: transparent;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid gray;
+	font-size: 18px;
+	margin-bottom: 16px;
+}
+
+  input {
+	 height: 45px;
+  }
+
+  form .submit {
+  	background: #a5edc7;
+  	border-color: transparent;
+  	color: #fff;
+  	font-size: 20px;
+  	font-weight: bold;
+  	letter-spacing: 2px;
+  	height: 50px;
+  	margin-top: 20px;
+  	width: 90%;
+  }
+
+  form .submit:hover {
+  	background-color: #f44336;
+  	cursor: pointer;
+  }
+
+  .projects_next, .projects_prev {
+    color: white;
+    font-family: 'open_sans';
+    width: 10px;
+    margin-top: 50px;
+    cursor: pointer;
+    background: #a5edc7;;
+    border-radius: 5px;
+    box-shadow: #a9edc7;
+    transition: box-shadow 0.1s, top 0.1s;
+    border: 3px solid white;
+    text-align: center;
+  }
+
+ .projects_footer, .projects_footer_1 {
+ 	margin-top: 130px;
+  }
+
+  .contact_page_1 {
+	 width: 100%;
+  }
+
+ .contact_image {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+
+ .summary_header_1 ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+    padding: 5px;
+    margin-right: 10px;
+    font-family: 'montserat';
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: #333;
+    color: white;
+    font-size: 10px;
+    line-height: 2.5;
+  }
+
+  .summary_header_1 li {
+    display: inline;
+    margin: 0;
+    padding: 0;
+    margin-left: 5px;
+  }
+}
